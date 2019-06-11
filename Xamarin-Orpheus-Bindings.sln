@@ -8,6 +8,8 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution 
 		README.md = README.md
 	EndProjectSection
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OrpheusSample", "OrpheusSample\OrpheusSample.csproj", "{A069C32E-C1C4-4635-A311-D24FD1B18FC5}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -18,5 +20,9 @@ Global
 		{B8C10B68-5410-4E53-AD3C-AFFC27C8B129}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{B8C10B68-5410-4E53-AD3C-AFFC27C8B129}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{B8C10B68-5410-4E53-AD3C-AFFC27C8B129}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A069C32E-C1C4-4635-A311-D24FD1B18FC5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A069C32E-C1C4-4635-A311-D24FD1B18FC5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A069C32E-C1C4-4635-A311-D24FD1B18FC5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A069C32E-C1C4-4635-A311-D24FD1B18FC5}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
